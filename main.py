@@ -1,4 +1,4 @@
-"""Git #1 April 24 2021"""
+"""Git #1 April's 24 2021"""
 from tkinter import *
 from tkinter import messagebox
 import sqlite3
